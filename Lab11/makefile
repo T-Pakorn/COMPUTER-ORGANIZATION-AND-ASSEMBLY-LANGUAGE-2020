@@ -1,3 +1,2 @@
-Lab11-6:
-	gcc -o Lab11-6 Lab11-6.c -l wiringPi
-	
+Lab11-7:
+	gcc -o Lab11-7 Lab11-7.c -l wiringPi
